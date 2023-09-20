@@ -16,7 +16,7 @@ Skills: Java / REACT / JS / Unity
 - ⚡ Fun fact: I enjoy participating in sports but don't have a strong interest in watching them. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Paveljolak)  [<img src='https://icons8.com/icon/64154/linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pavel-jolakoski-687b3228b//)  [<img src='https://i.pinimg.com/474x/84/0d/04/840d04b5a83f0d7c46a5665513b310a6.jpg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/pavel_jolak//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Paveljolak)  [<img src='https://pngimg.com/uploads/linkedIn/linkedIn_PNG33.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pavel-jolakoski-687b3228b//)  [<img src='https://i.pinimg.com/474x/84/0d/04/840d04b5a83f0d7c46a5665513b310a6.jpg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/pavel_jolak//)  
 
 
 
