@@ -2,7 +2,7 @@
 #### I am a Computer Science student.
 
 ![I am a Computer Science student.](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47xmvdapgolhajn4c1dda5vedaydkqum1tkenjmxri&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-![](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47xmvdapgolhajn4c1dda5vedaydkqum1tkenjmxri&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![](https://media.tenor.com/sNWoRvvT2-oAAAAC/racoon-computer-on-fire.gif)
 
 
 I am currently 3rd year student at UP FAMNIT. I'm in the process of exploring a wide range of projects to discover my true interests.
