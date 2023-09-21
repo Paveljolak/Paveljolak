@@ -1,5 +1,5 @@
-## Hi there 👋, My name is Pavel.
-### I am a Computer Science student.
+### Hi there 👋, My name is Pavel.
+#### I am a Computer Science student.
 
 ![I am a Computer Science student.](https://gifdb.com/images/high/pixelated-programming-with-laptop-zjklhkd7y5bxanaf.webp)
 
