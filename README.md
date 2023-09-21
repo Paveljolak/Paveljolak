@@ -2,6 +2,8 @@
 #### I am a Computer Science student.
 ![I am a Computer Science student.](https://i.ytimg.com/vi/7NOSDKb0HlU/maxresdefault.jpg)
 
+![I am a Computer Science student.](https://gifdb.com/images/high/pixelated-programming-with-laptop-zjklhkd7y5bxanaf.webp)
+
 I am currently 3rd year student at UP FAMNIT. I'm in the process of exploring a wide range of projects to discover my true interests.
 
 Current Interests: Game Development, Web Development.
