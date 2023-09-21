@@ -1,5 +1,5 @@
-Hi there 👋, My name is Pavel.
-I am a Computer Science student.
+### Hi there 👋, My name is Pavel.
+#### I am a Computer Science student.
 ![I am a Computer Science student.](https://i.ytimg.com/vi/7NOSDKb0HlU/maxresdefault.jpg)
 
 I am currently 3rd year student at UP FAMNIT. I'm in the process of exploring a wide range of projects to discover my true interests.
