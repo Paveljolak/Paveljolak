@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Pavel.
 #### I am a Computer Science student.
 
-![I am a Computer Science student.](https://gifdb.com/images/high/pixelated-programming-with-laptop-zjklhkd7y5bxanaf.webp)
+![I am a Computer Science student.](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47xmvdapgolhajn4c1dda5vedaydkqum1tkenjmxri&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 I am currently 3rd year student at UP FAMNIT. I'm in the process of exploring a wide range of projects to discover my true interests.
 
