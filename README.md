@@ -18,8 +18,7 @@ Skills: Java / REACT / JS / Unity
 [<img src='https://pngimg.com/uploads/github/github_PNG72.png' alt='github' height='40'>](https://github.com/Paveljolak)  [<img src='https://pngimg.com/uploads/linkedIn/linkedIn_PNG33.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/pavel-jolakoski-687b3228b//)  [<img src='https://pngimg.com/uploads/instagram/instagram_PNG9.png' alt='instagram' height='40'>](https://www.instagram.com/pavel_jolak/)  
 
 
-Let's see what happens.
-https://github-readme-stats.vercel.app/api/top-langs/?username=paveljolak
+
 
 
 
