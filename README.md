@@ -7,7 +7,7 @@ Current Interests: Game Development, Web Development.
 
 I love the idea of beginning with a fresh canvas and bringing my creative ideas to life. In web and game development, I get to build something meaningful from scratch, and that's what truly excites me.
 
-Skills: Java / REACT / JS / Unity
+Skills: Java / REACT / JS / Unity / LaTeX / 
 
 - 🔭 I’m currently working on completing my Bachelor's Degree. 
 - 🌱 I’m currently learning Data Structures and various Algorithms in JS. 
