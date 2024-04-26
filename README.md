@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Pavel.
 #### I am a Computer Science student.
 
-I am currently 3rd year student at UP FAMNIT. I'm in the process of exploring a wide range of projects to discover my true interests.
+I am currently 3rd year student at UP FAMNIT. I'm in the process of finishing my bachelor's degree.
 
 Current Interests: Game Development, Web Development.
 
@@ -9,8 +9,8 @@ I love the idea of beginning with a fresh canvas and bringing my creative ideas 
 
 Skills: Java / REACT / JS / Unity / LaTeX / 
 
-- 🔭 I’m currently working on completing my Bachelor's Degree. 
-- 🌱 I’m currently learning Data Structures and various Algorithms in JS. 
+- 🔭 I’m currently working on integrating a GoPiGo robot into the education system.
+- 🌱 I’m currently learning Data Structures and various Algorithms in JS.
 - 📫 How to reach me: Through any of my social media accounts. 
 - ⚡ Fun fact: I enjoy participating in sports but don't have a strong interest in watching them. 
 
