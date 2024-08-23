@@ -7,8 +7,8 @@ Current Interests: Game Development, Web Development.
 
 Skills: Java / JS / Unity / LaTeX / 
 
-- 📚🤖 I’m currently working on integrating a GoPiGo robot into the education system.
-- 🌱 I’m currently finishing up my final thesis: "Teaching Shortest Path Algorithms Using a Physical Robot"
+- 🤖 I’m currently working on integrating a GoPiGo robot into the education system.
+- 🎓 I’m currently finishing up my final thesis: "Teaching Shortest Path Algorithms Using a Physical Robot"
 - 📫 How to reach me: Through any of my social media accounts. 
 - ⚡ Fun fact: I enjoy participating in sports but don't have a strong interest in watching them. 
 
