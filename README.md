@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I am currently 3rd year student at UP FAMNIT. I'm in the process of finishing my bachelor's degree. Current Interests: Game Development, Web Development.
+I am currently 3rd year student at UP FAMNIT. I'm in the process of finishing my bachelor's degree.
+
+Current Interests: Game Development, Web Development.
 
 ### Skills
 
