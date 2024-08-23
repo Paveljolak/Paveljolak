@@ -5,12 +5,10 @@ I am currently 3rd year student at UP FAMNIT. I'm in the process of finishing my
 
 Current Interests: Game Development, Web Development.
 
-I love the idea of beginning with a fresh canvas and bringing my creative ideas to life. In web and game development, I get to build something meaningful from scratch, and that's what truly excites me.
+Skills: Java / JS / Unity / LaTeX / 
 
-Skills: Java / REACT / JS / Unity / LaTeX / 
-
-- 🔭 I’m currently working on integrating a GoPiGo robot into the education system.
-- 🌱 I’m currently learning Data Structures and various Algorithms in JS.
+- 📚🤖 I’m currently working on integrating a GoPiGo robot into the education system.
+- 🌱 I’m currently finishing up my final thesis: "Teaching Shortest Path Algorithms Using a Physical Robot"
 - 📫 How to reach me: Through any of my social media accounts. 
 - ⚡ Fun fact: I enjoy participating in sports but don't have a strong interest in watching them. 
 
