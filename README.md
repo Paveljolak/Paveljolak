@@ -32,6 +32,4 @@ Would like to have my own indie studio one day. One day :D
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=paveljolak&icon=0&color=0)]
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=paveljolak&icon=0&color=0)
