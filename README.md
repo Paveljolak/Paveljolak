@@ -1,7 +1,7 @@
 # 💫 About Me:
-Working on finishing my bachelor's degree. 
+BSc in Computer Science. Trying to figure out ROS2.
 
-Would like to have my own indie studio one day. One day :D
+Would like to have my own indie game dev studio one day. One day :D
 
 
 # 💻 Tech Stack:
